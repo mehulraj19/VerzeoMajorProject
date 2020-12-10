@@ -37,6 +37,6 @@ In this, we have developed the algorithm to combine the results that we were get
 Since, the model we have developed works on classification, therefore, we were suppose to use the mojorty voting from algo and give values accordingly.
 <br>
 <h1>Results</h1>
-<img src="images/Result1.png">
+<img src="images/Result1.png" style="border: 1px solid">
 After Ensembing:
-<img src="images/Result2.png">
+<img src="images/Result2.png" style="border: 1px solid">
