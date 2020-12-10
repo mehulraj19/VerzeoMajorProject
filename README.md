@@ -14,7 +14,7 @@ to visualize data, shows which city among the metropolitan cities have more outl
 <br>
 Many other parts have been been studied in the project.
 <br>
-<h2>Dataset Used</h2>
+<h1>Dataset Used</h1>
 For model development, we have 6 excel files for the 6 cities: Delhi, Mumbai, Bengaluru, Kolkata, Chennai, and Hyderabad. With thes I have used the concepts of pandas to develop
 the main excel file to combine all these files and make new column to tell the city particular house (or row) belongs to.
 <br>
