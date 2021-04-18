@@ -1,6 +1,6 @@
 # VerzeoMajorProject
 <h1>Introduction</h1>
-This is Major Project for the internship Program from Verzeo. We have a group of 5 members and we have divided the work to complete the project within desired time. The project 
+This is Major Project for the internship Program from Verzeo. We have group of 5 members and we have divided the work to complete the project within desired time. The project 
 includes the concepts of :-
 <ul>
 <li> Data visualization</li>
